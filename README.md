@@ -25,6 +25,7 @@ The advanced routing algorithm respect of the pgRouting v1.4 are capable of:
 - return the results in a format table as a overlay graph or in detailed for each node used from the routing network.
 
 The structured of table used is described here: [Graph Network](https://pgiroute.codeplex.com/wikipage?title=Graph%20Network&referringTitle=Home)
+[Graph Network Wiki](https://github.com/Raffaello/PgIRoute/wiki/Graph-Network)
 
 ## Requirements
 
